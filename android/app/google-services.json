@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794957518207",
+    "firebase_url": "https://healthband-a6423.firebaseio.com",
+    "project_id": "healthband-a6423",
+    "storage_bucket": "healthband-a6423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794957518207:android:041838cf8b981d07a2764a",
+        "android_client_info": {
+          "package_name": "com.healthband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794957518207-eafimoabmdhe1kqo3euhgh3o05ci7510.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ajQ4lQQuAXIxt3BVuvBCSmzZ8VmJE9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794957518207-eafimoabmdhe1kqo3euhgh3o05ci7510.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
